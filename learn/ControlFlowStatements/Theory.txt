@@ -1,0 +1,19 @@
+Conditional Statements:
+
+if statement: Executes a block of code if a specified condition is true.
+if-else statement: Executes one block of code if the condition is true and another block if the condition is false.
+if-else if-else statement: Allows you to chain multiple conditions and execute different blocks of code based on the evaluation of these conditions.
+
+
+Loop Statements:
+
+for loop: Executes a block of code repeatedly for a specified number of times.
+while loop: Executes a block of code repeatedly as long as a specified condition is true.
+do-while loop: Similar to the while loop, but it guarantees that the block of code is executed at least once, as the condition is evaluated after the loop body.
+
+
+Branching Statements:
+
+break: Terminates the current loop or switch statement and transfers the control to the statement after the loop or switch.
+continue: Skips the current iteration of a loop and continues with the next iteration.
+return: Exits a method and optionally returns a value to the caller.
